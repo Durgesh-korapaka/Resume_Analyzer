@@ -1,0 +1,187 @@
+-------------------------------------------------
+📂 Resume Analyzer
+-------------------------------------------------
+
+✅ Uploaded File: resume1.pdf
+
+-------------------------------------------------
+👤 Personal Details
+-------------------------------------------------
+Name: John Doe
+Email: john.doe@gmail.com
+Phone: +91 9876543210
+LinkedIn: https://linkedin.com/in/johndoe
+Portfolio: https://johndoe.dev
+
+-------------------------------------------------
+📝 Summary
+-------------------------------------------------
+Full-stack developer with 3+ years of experience in MERN stack, cloud deployment, and CI/CD pipelines.
+
+-------------------------------------------------
+💼 Work Experience
+-------------------------------------------------
+• Software Engineer @ Infosys (2021–2023)
+   - Built microservices with Node.js & PostgreSQL
+   - Implemented CI/CD pipelines with Jenkins
+
+-------------------------------------------------
+🎓 Education
+-------------------------------------------------
+• B.Tech in CSE – NIT Trichy (2016–2020)
+
+-------------------------------------------------
+💡 Skills
+-------------------------------------------------
+Technical Skills: JavaScript, React, Node.js, PostgreSQL, AWS, Docker  
+Soft Skills: Problem Solving, Communication, Teamwork
+
+-------------------------------------------------
+📂 Projects
+-------------------------------------------------
+• Twitter Clone (Node.js + SQLite + JWT)  
+• Cryptocurrency Tracker (React + API Integration)
+
+-------------------------------------------------
+📜 Certifications
+-------------------------------------------------
+• AWS Certified Solutions Architect
+
+-------------------------------------------------
+🤖 AI Feedback
+-------------------------------------------------
+⭐ Resume Rating: 7/10  
+🔴 Improvement Areas: Add measurable metrics, expand leadership experience.  
+✅ Suggested Upskill Areas: Kubernetes, System Design, Cloud Architecture
+  
+
+
+-------------------------------------------------
+📂 Resume Analyzer
+-------------------------------------------------
+
+✅ Uploaded File: resume2.pdf
+
+-------------------------------------------------
+👤 Personal Details
+-------------------------------------------------
+Name: Jane Roe
+Email: jane.roe@gmail.com
+Phone: +91 9123456789
+LinkedIn: https://linkedin.com/in/janeroe
+
+-------------------------------------------------
+📝 Summary
+-------------------------------------------------
+Data Scientist with expertise in machine learning, NLP, and statistical modeling.
+
+-------------------------------------------------
+💼 Work Experience
+-------------------------------------------------
+• Data Scientist @ TCS (2020–2023)
+   - Built predictive models for customer churn (85% accuracy)
+   - Automated NLP pipeline for sentiment analysis
+
+• Intern @ Kaggle Community (2019–2020)
+   - Published kernels with 10k+ views
+
+-------------------------------------------------
+🎓 Education
+-------------------------------------------------
+• M.Sc. in Data Science – IIT Bombay (2018–2020)
+
+-------------------------------------------------
+💡 Skills
+-------------------------------------------------
+Technical Skills: Python, TensorFlow, PyTorch, SQL, NLP, Pandas  
+Soft Skills: Analytical Thinking, Presentation, Problem Solving
+
+-------------------------------------------------
+📂 Projects
+-------------------------------------------------
+• Movie Recommendation System  
+• Customer Churn Prediction
+
+-------------------------------------------------
+📜 Certifications
+-------------------------------------------------
+• Google TensorFlow Developer Certificate
+
+-------------------------------------------------
+🤖 AI Feedback
+-------------------------------------------------
+⭐ Resume Rating: 8/10  
+🔴 Improvement Areas: Add deployment experience, teamwork contributions.  
+✅ Suggested Upskill Areas: MLOps (Kubeflow, MLflow), Cloud AI (AWS/GCP)
+
+
+
+-------------------------------------------------
+📂 Resume Analyzer
+-------------------------------------------------
+
+✅ Uploaded File: resume3.pdf
+
+-------------------------------------------------
+👤 Personal Details
+-------------------------------------------------
+Name: Ravi Kumar
+Email: ravi.kumar@gmail.com
+Phone: +91 9988776655
+LinkedIn: https://linkedin.com/in/ravikumar
+Portfolio: https://ravikumar.dev
+
+-------------------------------------------------
+📝 Summary
+-------------------------------------------------
+Frontend Developer passionate about building interactive and user-friendly web applications.
+
+-------------------------------------------------
+💼 Work Experience
+-------------------------------------------------
+• Frontend Engineer @ HCL (2021–2023)
+   - Developed dashboards using React & Redux
+   - Improved app performance by 30%
+
+• Intern @ StartupY (2020)
+   - Worked on responsive design with TailwindCSS
+
+-------------------------------------------------
+🎓 Education
+-------------------------------------------------
+• B.E. in Information Technology – Anna University (2016–2020)
+
+-------------------------------------------------
+💡 Skills
+-------------------------------------------------
+Technical Skills: HTML, CSS, JavaScript, React, Redux, TailwindCSS  
+Soft Skills: Creativity, Collaboration, Adaptability
+
+-------------------------------------------------
+📂 Projects
+-------------------------------------------------
+• E-commerce Store (React + Stripe API)  
+• Blogging Platform (MERN Stack)
+
+-------------------------------------------------
+📜 Certifications
+-------------------------------------------------
+• React Advanced Course – Coursera
+
+-------------------------------------------------
+🤖 AI Feedback
+-------------------------------------------------
+⭐ Resume Rating: 6/10  
+🔴 Improvement Areas: Add backend exposure, testing frameworks, GitHub links.  
+✅ Suggested Upskill Areas: Node.js, Express.js, Jest, Cypress
+
+
+
+Tab 2 – Historical Viewer (Table)
+
+| Name       | Email                                               | File Name   | Uploaded At         | Action  |
+| ---------- | --------------------------------------------------- | ----------- | ------------------- | ------- |
+| John Doe   | [john.doe@gmail.com](mailto:john.doe@gmail.com)     | resume1.pdf | 2025-09-07 20:15:00 | 🔍 View |
+| Jane Roe   | [jane.roe@gmail.com](mailto:jane.roe@gmail.com)     | resume2.pdf | 2025-09-07 20:20:00 | 🔍 View |
+| Ravi Kumar | [ravi.kumar@gmail.com](mailto:ravi.kumar@gmail.com) | resume3.pdf | 2025-09-07 20:25:00 | 🔍 View |
+

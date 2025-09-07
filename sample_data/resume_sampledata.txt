@@ -1,0 +1,155 @@
+Resume one 
+
+{
+  "fileName": "resume2.pdf",
+  "personalDetails": {
+    "name": "Jane Roe",
+    "email": "jane.roe@gmail.com",
+    "phone": "+91 9123456789",
+    "linkedin": "https://linkedin.com/in/janeroe"
+  },
+  "summary": "Data Scientist with expertise in machine learning, NLP, and statistical modeling.",
+  "experience": [
+    {
+      "role": "Data Scientist",
+      "company": "TCS",
+      "duration": "2020–2023",
+      "responsibilities": [
+        "Built predictive models for customer churn (85% accuracy)",
+        "Automated NLP pipeline for sentiment analysis"
+      ]
+    },
+    {
+      "role": "Intern",
+      "company": "Kaggle Community",
+      "duration": "2019–2020",
+      "responsibilities": ["Published kernels with 10k+ views"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Data Science",
+      "university": "IIT Bombay",
+      "year": "2018–2020"
+    }
+  ],
+  "skills": {
+    "technical": ["Python", "TensorFlow", "PyTorch", "SQL", "NLP", "Pandas"],
+    "soft": ["Analytical Thinking", "Presentation", "Problem Solving"]
+  },
+  "projects": [
+    "Movie Recommendation System",
+    "Customer Churn Prediction"
+  ],
+  "certifications": ["Google TensorFlow Developer Certificate"],
+  "aiFeedback": {
+    "rating": "8/10",
+    "improvements": ["Add deployment experience", "Highlight teamwork contributions"],
+    "suggestedUpskills": ["MLOps (Kubeflow, MLflow)", "Cloud AI (AWS/GCP)"]
+  }
+}
+
+
+Resume 2 
+
+{
+  "fileName": "resume2.pdf",
+  "personalDetails": {
+    "name": "Jane Roe",
+    "email": "jane.roe@gmail.com",
+    "phone": "+91 9123456789",
+    "linkedin": "https://linkedin.com/in/janeroe"
+  },
+  "summary": "Data Scientist with expertise in machine learning, NLP, and statistical modeling.",
+  "experience": [
+    {
+      "role": "Data Scientist",
+      "company": "TCS",
+      "duration": "2020–2023",
+      "responsibilities": [
+        "Built predictive models for customer churn (85% accuracy)",
+        "Automated NLP pipeline for sentiment analysis"
+      ]
+    },
+    {
+      "role": "Intern",
+      "company": "Kaggle Community",
+      "duration": "2019–2020",
+      "responsibilities": ["Published kernels with 10k+ views"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Data Science",
+      "university": "IIT Bombay",
+      "year": "2018–2020"
+    }
+  ],
+  "skills": {
+    "technical": ["Python", "TensorFlow", "PyTorch", "SQL", "NLP", "Pandas"],
+    "soft": ["Analytical Thinking", "Presentation", "Problem Solving"]
+  },
+  "projects": [
+    "Movie Recommendation System",
+    "Customer Churn Prediction"
+  ],
+  "certifications": ["Google TensorFlow Developer Certificate"],
+  "aiFeedback": {
+    "rating": "8/10",
+    "improvements": ["Add deployment experience", "Highlight teamwork contributions"],
+    "suggestedUpskills": ["MLOps (Kubeflow, MLflow)", "Cloud AI (AWS/GCP)"]
+  }
+}
+
+
+Resume 3
+
+{
+  "fileName": "resume3.pdf",
+  "personalDetails": {
+    "name": "Ravi Kumar",
+    "email": "ravi.kumar@gmail.com",
+    "phone": "+91 9988776655",
+    "linkedin": "https://linkedin.com/in/ravikumar",
+    "portfolio": "https://ravikumar.dev"
+  },
+  "summary": "Frontend Developer passionate about building interactive and user-friendly web applications.",
+  "experience": [
+    {
+      "role": "Frontend Engineer",
+      "company": "HCL",
+      "duration": "2021–2023",
+      "responsibilities": [
+        "Developed dashboards using React & Redux",
+        "Improved app performance by 30%"
+      ]
+    },
+    {
+      "role": "Intern",
+      "company": "StartupY",
+      "duration": "2020",
+      "responsibilities": ["Worked on responsive design with TailwindCSS"]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.E. in Information Technology",
+      "university": "Anna University",
+      "year": "2016–2020"
+    }
+  ],
+  "skills": {
+    "technical": ["HTML", "CSS", "JavaScript", "React", "Redux", "TailwindCSS"],
+    "soft": ["Creativity", "Collaboration", "Adaptability"]
+  },
+  "projects": [
+    "E-commerce Store (React + Stripe API)",
+    "Blogging Platform (MERN Stack)"
+  ],
+  "certifications": ["React Advanced Course – Coursera"],
+  "aiFeedback": {
+    "rating": "6/10",
+    "improvements": ["Add backend exposure", "Include testing frameworks", "Link GitHub repos"],
+    "suggestedUpskills": ["Node.js", "Express.js", "Jest", "Cypress"]
+  }
+}
